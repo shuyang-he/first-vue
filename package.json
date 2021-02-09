@@ -1,0 +1,8 @@
+{
+  "name": "first-vue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/shuyang-he/first-vue.git",
+  "author": "Shuyang He <maxhe2019@gmail.com>",
+  "license": "MIT"
+}
